@@ -17,4 +17,5 @@
 ### รวม 2 Commit ล่าสุดเข้าด้วยกัน
 
 > `git reset --soft HEAD^`
+
 > `git commit --amend`
